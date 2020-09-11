@@ -1,0 +1,50 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
+body {
+    background-color: #363636;
+}
+
+div#border {
+    margin:auto;
+    width: 500px;
+    height: 500px;
+    border: 2px solid #DCDCDC;
+    border-radius: 5px;
+}
+
+h1 {
+    color:#DCDCDC;
+    text-align: center;
+}
+
+h3{
+    color:#DCDCDC;
+    text-align: center;
+    font-size: 13px;
+}
+
+input#bin {
+    width: 400px;
+    height: 40px;
+    margin:10px;
+    font-size:16px;
+}
+
+button{
+
+    width: 400px;
+    height: 40px;
+    margin:10px;
+    font-size:15px;
+}
+
+input#dec { 
+    width: 400px;
+    height: 40px;
+    margin:10px;
+    font-size:16px;
+}
+

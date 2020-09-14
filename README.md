@@ -1,6 +1,7 @@
 # Bin2Dec
 um conversor de binario para decimal
 
+> status do Projeto: concluído
 
 Binário é o sistema numérico no qual todos os computadores digitais são baseados. Portanto, é importante que os desenvolvedores entendam a matemática binária ou de base 2. O objetivo do Bin2Dec é fornecer prática e compreensão de como os cálculos binários.
 
@@ -19,6 +20,6 @@ Histórias de usuários
 
 Recursos bônus
 
-    [ ]O usuário pode inserir um número variável de dígitos binários
+    [x]O usuário pode inserir um número variável de dígitos binários
 
 
